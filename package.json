@@ -1,0 +1,21 @@
+{
+  "name": "tsukiyo",
+  "displayName": "Tsukiyo",
+  "description": "Moon light Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tsukiyo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tsukiyo-color-theme.json"
+      }
+    ]
+  }
+}
