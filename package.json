@@ -3,6 +3,16 @@
   "displayName": "Tsukiyo",
   "description": "Moon light Theme",
   "version": "0.0.1",
+  "publisher": "SahilMulani",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SahillMulani/Tsukiyo-Theme"
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
