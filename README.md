@@ -7,7 +7,7 @@
 
 *  With a wide variety of themes available, Tsukiyo theme is perfect for developers looking to give their coding environment a fresh and polished look. Whether you prefer a light or dark theme, Tsukiyo has you covered, and its compatibility with a wide range of programming languages makes it a versatile choice for any developer. Upgrade your coding experience with Tsukiyo theme.
   
-# Installation
+# Installation 🚀
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
@@ -17,7 +17,7 @@
 6.  Click **Reload** to reload the Code
 7.  From the menu bar click: Code > Preferences > Color Theme > **tsukiyo**
 
-# Alternate Installation
+# Alternate Installation ⚡
 
 1.  Launch Quick Open using <kbd>Cmd</kbd>+<kbd>P</kbd> — or — <kbd>Ctrl</kbd>+<kbd>P</kbd>.
 2.  Paste the command `ext install tsukiyo`
